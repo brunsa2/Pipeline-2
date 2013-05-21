@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon May 30 19:13:33 2011
+Quartus II Version : 9.0 Build 235 06/17/2009 SP 2 SJ Web Edition
+Revision Name : pipeline
+Top-level Entity Name : pipecu
+Family : Cyclone III
+Device : EP3C120F780I7
+Timing Models : Final
+Total logic elements : 40 / 119,088 ( < 1 % )
+    Total combinational functions : 40 / 119,088 ( < 1 % )
+    Dedicated logic registers : 0 / 119,088 ( 0 % )
+Total registers : 0
+Total pins : 34 / 532 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 0 / 3,981,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 576 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
